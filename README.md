@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="[[https://your-banner-image-url.com/banner-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fanalytics-dashboard&psig=AOvVaw1yRMei5nsmZqATz1906PL0&ust=1693490240166000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCzi_TEhIEDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnjaliBakshi17&psig=AOvVaw1yRMei5nsmZqATz1906PL0&ust=1693490240166000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCzi_TEhIEDFQAAAAAdAAAAABAJ)" alt="Banner" width="800">
+  <img src="https://static.startuptalky.com/2022/03/Importance-of-Business-Analysts-of-Organizational-Growth.jpg" alt="Banner" width="800">
 </p>
 <h1 align="center">Hi 👋, I'm Om Gulshan</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
