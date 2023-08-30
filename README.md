@@ -30,9 +30,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omgulshan&show_icons=true&locale=en" alt="GitHub Stats">
 </p>
 
-## ⚡ Fun Fact
+## ⚡ Fun Facts
 <p align="center">
   Did you know? I enjoy solving algorithmic puzzles in my free time! 🧩
+  <br>
+  And here's another one: I'm a big fan of astronomy and stargazing! 🌌✨
 </p>
 
 <!-- Replace URLs and image paths with your actual information -->
