@@ -2,27 +2,96 @@
 <p align="center">
   <img src="https://static.startuptalky.com/2022/03/Importance-of-Business-Analysts-of-Organizational-Growth.jpg" alt="Banner" width="800">
 </p>
-<h1 align="center">Hi 👋, I'm Om Gulshan</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omgulshan&label=Profile%20views&color=0e75b6&style=flat" alt="omgulshan" /> </p>
+<!-- Introduction -->
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm Om Gulshan, a passionate Data Analyst from India</h3>
 
-- 📫 How to reach me **omgulshan001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/omgulshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omgulshan/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/omgulshan001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/omgulshan001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/omgulshan001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/omgulshan001/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/omgulshan20934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/omgulshan20934" height="30" width="40" /></a>
+<!-- Connect with me -->
+<p align="center">
+  <a href="mailto:omgulshan001@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/omgulshan"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.codechef.com/users/omgulshan001"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://leetcode.com/omgulshan001/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omgulshan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omgulshan&show_icons=true&locale=en&layout=compact" alt="omgulshan" /></p>
+<!-- About Me -->
+## 🙋‍♂️ About Me
+I'm a highly motivated final year Engineering student with a passion for problem-solving and data analysis. Proficient in Python, C++, and various data science libraries. Skilled in data manipulation, visualization, and database management.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omgulshan&show_icons=true&locale=en" alt="omgulshan" /></p>
+<!-- Experience -->
+## 💼 Experience
+**Finance Analyst** at Invact Metaversity, Bengaluru<br>
+_January 2023 - August 2023_
+- Utilized Power BI and Python for data analytics and visualization.
+- Gathered data through web scraping, ensuring diverse datasets for analysis.
+- Created financial models using Excel.
+- Provided actionable insights, enhancing data-driven decision-making.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omgulshan&" alt="omgulshan" /></p>
+<!-- Projects -->
+## 🚀 Projects
+**Cricket Data Analytics Project**<br>
+_January 2023 - February 2023_
+- Developed Python scripts for web scraping cricket data from various sources.
+- Conducted comprehensive statistical analysis using Pandas.
+- Created visually captivating dashboards using Power BI.
+- Enhanced visual representation through informative graphical elements.
+
+**Sales Insights Project**<br>
+_February 2023 - April 2023_
+- Designed interactive dashboards in Power BI for sales performance analysis.
+- Conducted sales forecasting and identified top-performing products.
+
+**Price Prediction Project**<br>
+_May 2023 - July 2023_
+- Gathered and cleaned data for real estate and automobile price prediction.
+- Applied machine learning algorithms for accurate price forecasts.
+
+**ZOMATO Data Analysis**<br>
+_May 2023 - July 2023_
+- Developed web scraping scripts for restaurant data extraction.
+- Utilized SQL for data cleansing and analysis.
+
+<!-- Certifications -->
+## 📜 Certifications
+- Data Analyst Certification from Prepinsta, 2023
+- Machine Learning Certification from Prepinsta, 2023
+
+<!-- Education -->
+## 🎓 Education
+Bachelor of Mechanical Engineering at UIET, Panjab University, Chandigarh<br>
+_Class of 2024 • GPA: 8.5_
+
+<!-- Campus Involvement -->
+## 🌟 Campus Involvement
+**Branch Coordinator** at Training and Placement Cell, UIET, Panjab University<br>
+_April 2022 - Present_
+- Organized career fairs and maintained an employer database.
+
+**Core Member** at Technical Society, UIET, Panjab University<br>
+_August 2022 - Present_
+- Led technical initiatives and projects.
+
+<!-- Skills -->
+## 🛠️ Skills
+**Technical Skills:** Python, SQL, C++, POWER BI<br>
+**Areas of Interest:** Data Cleaning, Data Visualization, Machine Learning
+
+<!-- Fun Facts -->
+## ⚡ Fun Facts
+- I enjoy solving algorithmic puzzles in my free time! 🧩
+- I'm a big fan of astronomy and stargazing! 🌌✨
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omgulshan&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omgulshan&show_icons=true&locale=en" alt="GitHub Stats">
+</p>
+
+<!-- Replace URLs and image paths with your actual information -->
