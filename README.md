@@ -1,12 +1,12 @@
 # 💫 About Me:
-I'm a highly motivated final year Engineering student with a passion for problem-solving and data analysis. Proficient in Python, C++, and various data science libraries. Skilled in data manipulation, visualization, and database management.
-
+I'm a highly motivated final year Engineering student with a passion for problem-solving and data analysis. Proficient in Python, C++, and various data science libraries. Skilled in data analysis, data manipulation, visualization, and database management.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/omgulshan) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=omgulshan&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omgulshan&theme=vue&hide_border=false)<br/>
@@ -21,10 +21,31 @@ I'm a highly motivated final year Engineering student with a passion for problem
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=omgulshan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 📊 Data Analyst & Business Analyst Profile:
+
+- **Data Analysis**: Proficient in data analysis techniques, including data cleaning, exploratory data analysis (EDA), and statistical analysis.
+
+- **Business Insights**: Skilled in deriving actionable insights from data to support business decision-making.
+
+- **Database Management**: Experience in managing databases and extracting relevant data for analysis.
+
+- **Visualization**: Proficient in creating visualizations using tools like Matplotlib, Seaborn, and Tableau.
+
+- **Data Manipulation**: Expertise in data manipulation using Python libraries such as Pandas and NumPy.
+
+- **Machine Learning**: Familiar with machine learning techniques and their application in solving business problems.
+
+- **Communication**: Strong communication skills to convey data-driven insights effectively.
+
+- **Problem-Solving**: Passionate about problem-solving and using data to drive solutions.
+
+- **GitHub**: Active contributor to data analysis and machine learning projects on GitHub.
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=omgulshan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
